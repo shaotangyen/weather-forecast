@@ -22,6 +22,9 @@ This is a server-side API dashboard using open API to get weather data. User can
 
 * HTML
 * CSS
+* Javascript
+* Moment.js
+* Openweathermap API
 
 ## 💡 Links
 
